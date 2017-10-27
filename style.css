@@ -1,0 +1,80 @@
+h2{
+	float:left;
+}
+h3{
+	float: right;
+}
+
+
+*
+{
+	margin:0;
+	padding:0;
+		}
+body{background: white;}
+/*#menu
+{
+	width:100px;
+	height:50px;
+	line-height:50px;
+	text-align:center;
+	font-size:20px;
+	background:#FFF;
+		}
+#menu:hover #menu_window1
+	{
+	display: block;
+		}
+#menu_window1
+	{
+	display: none;
+	position: absolute;
+	left:100px;
+	top:100px;
+	background: #FFF;
+	height:200px;
+	width:300px;
+	text-align:left;
+}/*下拉菜单*/
+
+
+
+#search{border:1px solid;width:280px;height:50px;
+	font-size:16px;
+	color:#7B7B7B;
+	position:relative;
+display:inline-block;
+vertical-align:top;
+}
+
+
+#first{
+	display:inline-block;
+	width: 358px;height:201px;
+	text-align:center;}
+
+
+
+#second{
+	display:inline-block;
+	width: 358px;height:201px;
+	text-align:center;}
+
+.stress{ color: #005da6;text-decoration:underline;font-size: 15px  }
+
+.strss{font-size: 20px  }
+.c{font-size: 24px;
+	padding: 36px o 4px;
+}
+
+
+#wo{background-color:#F0F0F0 ;}
+#one{display:inline-block;
+	float:left;
+	margin-left:85px;}
+.hhh{width:100px;
+	height:40px;
+	margin-left:45px;
+	margin-right: 230px;
+	margin-top:22px;}
+.hhhh{margin-right: 25px;font-size: 10px}
